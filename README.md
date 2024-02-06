@@ -1,2 +1,2 @@
 # The_Website_Of_Dreams
-A website i made.
+A website I made.
