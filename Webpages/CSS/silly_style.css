@@ -1,0 +1,11 @@
+body {
+  background: rgb(255, 107, 82)
+    ;
+}
+p {
+  color: black;
+  text-transform: inherit
+}
+h1 {
+  font-weight: bold;
+}
