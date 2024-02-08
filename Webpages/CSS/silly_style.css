@@ -1,17 +1,16 @@
 body {
-  background: rgb(255, 107, 82)
-    ;
+  background: rgb(255, 107, 82);
 }
 p {
   color: black;
   text-transform: inherit;
-}
-p  {
   font-variant: small-caps;
+  text-align: left
 }
 h1 {
   font-weight: bold;
   font-family: inherit;
+  text-align: left
 }
 b  {
   font-family: serif;
