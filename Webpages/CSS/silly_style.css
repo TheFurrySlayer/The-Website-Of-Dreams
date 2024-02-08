@@ -6,6 +6,13 @@ p {
   color: black;
   text-transform: inherit
 }
+p  {
+  font-variant: small-caps
+}
 h1 {
   font-weight: bold;
+  font-family: inherit
+}
+b  {
+  font-family: serif
 }
